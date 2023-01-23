@@ -2,7 +2,7 @@
 
 Deployed Project [Link](https://clone-e4c96.web.app)
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools:
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
